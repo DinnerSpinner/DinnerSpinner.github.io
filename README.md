@@ -1,2 +1,3 @@
-DinnerSpinner.github.io
-=======================
+DinnerSpinner
+=============
+Author: jtolla
